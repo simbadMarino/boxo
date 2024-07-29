@@ -10,8 +10,8 @@ import (
 )
 
 const (
-	IPFSNamespace = "ipfs"
-	IPNSNamespace = "ipns"
+	IPFSNamespace = "btfs"
+	IPNSNamespace = "btns"
 	IPLDNamespace = "ipld"
 )
 
